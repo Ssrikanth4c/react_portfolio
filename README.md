@@ -1,2 +1,4 @@
 # react_portfolio
-Created with CodeSandbox
+---
+creating this react based Application to showcase my projects.
+
